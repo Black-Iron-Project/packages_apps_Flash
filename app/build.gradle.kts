@@ -39,7 +39,7 @@ android {
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "org.derpfest.flash"
+        applicationId = "org.blackiron.flash"
         minSdk = 26
         targetSdk = 33
         versionCode = 1

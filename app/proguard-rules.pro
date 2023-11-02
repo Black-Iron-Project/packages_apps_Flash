@@ -24,4 +24,4 @@
 #-renamesourcefileattribute SourceFile
 
 # Any class extending SettingsFragment can be referenced in XML.
--keep class ** extends org.derpfest.flash.SettingsActivity$SettingsFragment
+-keep class ** extends org.blackiron.flash.SettingsActivity$SettingsFragment

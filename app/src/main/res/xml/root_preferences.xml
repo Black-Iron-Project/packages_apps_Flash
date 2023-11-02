@@ -95,7 +95,7 @@
         app:title="@string/advanced_header">
 
         <Preference
-            app:fragment="org.derpfest.flash.SettingsActivity$ProcessingSettingsFragment"
+            app:fragment="org.blackiron.flash.SettingsActivity$ProcessingSettingsFragment"
             app:iconSpaceReserved="false"
             app:title="@string/processing_title" />
 
